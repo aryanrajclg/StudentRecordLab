@@ -1,0 +1,5 @@
+﻿Features for Student Record Lab
+1. Student record management
+2. README documentation
+3. Git branch collaboration
+4. Pull request review
